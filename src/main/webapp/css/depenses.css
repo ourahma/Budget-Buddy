@@ -1,0 +1,9 @@
+.depenses-table {
+    margin-top: 20px;
+    width: 100%;
+}
+
+.depenses-table th, .depenses-table td {
+    text-align: center;
+    vertical-align: middle;
+}

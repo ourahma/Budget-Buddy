@@ -28,17 +28,18 @@ This application offers the following functionalities:
 - **User Profile**
   - Update profile information, including password changes, and log out securely.
 
-## Technologies Used
+## 🛠️ Technologies & Tools
 
-This application was built with the following technologies:
+![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-007396?style=for-the-badge&logo=business&logoColor=white)
+![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java%20EE-007396?style=for-the-badge&logo=java&logoColor=white)
+![WampServer](https://img.shields.io/badge/WampServer-FF0000?style=for-the-badge&logo=wampserver&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- ![Enterprise Architect](https://img.icons8.com/ios-filled/50/000000/business.png) **Enterprise Architect**
-- ![Eclipse IDE](https://img.icons8.com/ios-filled/50/000000/eclipse-ide.png) **Eclipse IDE**
-- ![Java](https://img.icons8.com/ios-filled/50/000000/java.png) **Java** and **Java EE**
-- ![WampServer](https://img.icons8.com/ios-filled/50/000000/server.png) **WampServer** for local server and database management
-- ![SQL](https://img.icons8.com/ios-filled/50/000000/database.png) **SQL** for database interactions
-- ![Bootstrap](https://img.icons8.com/ios-filled/50/000000/bootstrap.png) **Bootstrap** for responsive design
-- ![HTML](https://img.icons8.com/ios-filled/50/000000/html-5.png) **HTML** and **CSS** for frontend structure and styling
 
 
 ## Screenshots

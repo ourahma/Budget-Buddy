@@ -46,7 +46,7 @@
     <div class="sec-2">
       <ion-icon name="lock-closed-outline"></ion-icon>
       <input class="pas" type="password" name="password" id="password" placeholder="············" required/>
-      <ion-icon class="show-hide" name="eye-outline"></ion-icon>
+      
     </div>
     <ul id="passwordConstraints">
       <li id="length" class="invalid">Au moins 8 caractères</li>
@@ -60,7 +60,7 @@
     <div class="sec-2">
       <ion-icon name="lock-closed-outline"></ion-icon>
       <input class="pas" type="password" name="cpassword" id="cpassword" placeholder="············" required/>
-      <ion-icon class="show-hide" name="eye-outline"></ion-icon>
+      
     </div>
     <span id="passwordMatch" class="invalid">Les mots de passe ne correspondent pas</span>
   </div>

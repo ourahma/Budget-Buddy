@@ -33,7 +33,7 @@
     <div class="sec-2">
       <ion-icon name="lock-closed-outline"></ion-icon>
       <input class="pas" type="password" name="password" placeholder="············" required/>
-      <ion-icon class="show-hide" name="eye-outline"></ion-icon>
+      
     </div>
   </div>
   <button class="login" type="submit">Se connecter </button>
